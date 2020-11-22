@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Error Correcting Encoder-Decoder/task/build/
+/Problems/Count words/out/
+/Problems/Count words/out/production/classes/
+/Problems/Reverse input text/out/
+/Problems/Reverse input text/out/production/classes/
